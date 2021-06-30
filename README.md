@@ -9,4 +9,4 @@
 
 ### How to use these projecct
 
-##Tese project can be use by some cammands which are given in my code . Just you have to type "help"   all detels will come on your screen
+##These project can be use by some cammands which are given in my code . Just you have to type "help"   all detels will come on your screen
